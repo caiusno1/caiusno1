@@ -14,6 +14,8 @@ I am currious about the following technologies:
 - Express
 - NodeJs
 
+I spend much of my freetime (when I like to code ;-)) on my [CatFrame](https://github.com/caiusno1/CatFrame), (Adding EMF import, adding Pattern-Matcher capabilities, build a UI, build examples, write unit tests)
+
 <!--
 **caiusno1/caiusno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
