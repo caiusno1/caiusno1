@@ -18,6 +18,7 @@ I spend much of my freetime (when I like to code ;-)) on my [CatFrame](https://g
 Public repos (until now):
 - [CatFrame](https://github.com/caiusno1/CatFrame) Core Framework
 - [CatFrameProMatch](https://github.com/caiusno1/CatFrameProMatch) Pattern Matcher for Graphs and Typed Graphs (until now)
+- [CatFrameEMFLoader](https://github.com/caiusno1/CatFrameEMFLoader) EMFLoader for Catframe. It loads EMFModels to TypedGraphs (until now)
 
 <!--
 **caiusno1/caiusno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
