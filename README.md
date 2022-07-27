@@ -4,7 +4,7 @@ My name is Kai Biermeier. I am currently working for Paderborn University as par
 We research how AI can be explained using everyday explainations and via co-construction. My role is that of a techical assistant for empirical research. I create material, write scripts to analyse the results and also help with "everyday problems".  
 In paralell, I am still studying computer science on master level. I will soon write my master thesis :).  
 I am interested in Human Computer Interaction, Consistency, Model-Driven Engineering, Cognitive Psychology and Explainability ...  
-You can reach me via my blog @ [https://blog.kai-biermeier.de](https://blog.kai-biermeier.de). Or via mail blog@kai-biermeier.de. I am most probably happy to answer your questions ;-).  
+You can reach me via mail blog@kai-biermeier.de. I am most probably happy to answer your questions ;-).  
 I am currious about the following technologies:
 - Augmented Reality (MRTK, ARCore, Vuforia)
 - the Eclipse Modelling Framework
